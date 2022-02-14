@@ -1,0 +1,19 @@
+
+body{
+  background-color: #E7FBBE;
+}
+hr{
+margin-left: auto;
+margin-right : auto;
+width: 5%;
+border-top: 4px dotted  #f76b8a;
+}
+h1{
+  color:#616F39;
+}
+h3{
+color:#616F39;
+}
+a{
+  color : #5E454B;
+}
